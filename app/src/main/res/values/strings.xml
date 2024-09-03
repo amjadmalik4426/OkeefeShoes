@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Okeefe Shoes</string>
+    <string name="intro_tittle">Step into your style<font color="#6033ba"> "style\n A world of shoes</font></string>
+    <string name="intro_text">Browse the latest style from top brands\n Get personalized recommendation\n Enjoy fast, free shipping</string>
+    <string name="intro_signin">Already have an account?<font color="#6033ba"> Sign In</font></string>
+</resources>

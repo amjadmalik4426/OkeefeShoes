@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305372088292",
+    "project_id": "okeefeshoes-44c84",
+    "storage_bucket": "okeefeshoes-44c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305372088292:android:4528fc4d2a7cd01008a9f1",
+        "android_client_info": {
+          "package_name": "com.example.okeefeshoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQ3sEoM00ZZAWon5VAsFtZmyOrHhjssQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
